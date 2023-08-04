@@ -35,6 +35,7 @@ Engine made in Psych Engine so Idk
 - Github Support
 - Customizable Main Menu via JSON
 - In-Game Mod Downloader And Modcharting Tools
+- Custom And More Gameplay Changers
 
 That's All
 
