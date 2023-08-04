@@ -1,5 +1,6 @@
-# Discord-Engine
-Engine Made in Psych Engine
+# Discord Engine
+Modified version of Psych Engine 0.6.3 That Made for discord and more new coders and modders
+Engine made in Psych Engine so Idk
 
 # Features
 - New Discord RPC
