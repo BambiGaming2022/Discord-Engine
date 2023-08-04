@@ -21,7 +21,7 @@ Engine made in Psych Engine so Idk
 - OpenGL Shaders
 - Gamejolt Support
 - Extra Keys LUA Support (in mods folder)
-- Custom Buttons And Icons
+- Custom Buttons and Icons
 - Polymod Support And Softcoded Achievements
 - NPS Display
 - Stage Editor
@@ -36,6 +36,8 @@ Engine made in Psych Engine so Idk
 - Custom And More Gameplay Changers
 - Hscript Support
 - More Modding Support That Customable
+- Gamebanana Support
+- New And Changed HUD
 
 That's All
 
