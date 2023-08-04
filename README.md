@@ -11,7 +11,6 @@ Engine made in Psych Engine so Idk
 - New Editors
 - HX Support
 - Force Script
-- Wavy Background
 - New Things To Chart Editor
 - Video Support like WEBM and MP4
 - Mobile Support
