@@ -15,7 +15,6 @@ Engine made in Psych Engine so Idk
 - Video Support like WEBM and MP4
 - Mobile Support
 - New Stuffs to port it easy
-- BIOS!!!
 - Softcoded Menu and Freeplay
 - Dev Menu
 - SScript Support
