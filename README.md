@@ -38,6 +38,7 @@ Engine made in Psych Engine so Idk
 - More Modding Support That Customable
 - Gamebanana Support
 - New And Changed HUD
+- Furret Engine Features (Not extra keys)
 
 That's All
 
